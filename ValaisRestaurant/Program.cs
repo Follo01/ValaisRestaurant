@@ -8,6 +8,7 @@ namespace ValaisRestaurant
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("this is my firs commit");
+            Console.WriteLine("this is my commit developp");
         }
     }
 }
